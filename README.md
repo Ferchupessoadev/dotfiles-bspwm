@@ -1,0 +1,1 @@
+configuracion de bspwm
